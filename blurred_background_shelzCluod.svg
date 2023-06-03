@@ -1,0 +1,17 @@
+<svg width="150" height="150" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="svg_3_blur" x="-50%" y="-50%" width="200%" height="200%">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="10"/>
+  </filter>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_4_blur">
+   <feGaussianBlur stdDeviation="5" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect filter="url(#svg_4_blur)" opacity="0.9" stroke="null" fill="#DDDDDD" x="-14.69015" y="-19.44366" width="179.38028" height="188.88732" id="svg_4"/>
+  <path fill=" rgb(76, 86, 131)" fill-opacity="0.87" filter="url(#svg_3_blur)" d="m170.82396,119.2817l158.3521,0l0,167.43661l-158.3521,0l0,-167.43661z" id="svg_3" opacity="0.3" stroke="null"/>
+  <path d="m128.6039,62.86687c2.343,2.3432 2.343,6.1422 0,8.4853l-42.571,42.5712c-2.343,2.343 -6.142,2.343 -8.485,0l-26.7905,-26.79c-2.3432,-2.343 -2.3432,-6.1422 0,-8.4854l42.5715,-42.5712c2.343,-2.3432 6.142,-2.3432 8.485,0l26.79,26.7901z" fill=" rgb(42, 58, 83)" id="svg_1"/>
+  <path d="m98.6039,62.86687c2.343,2.3432 2.343,6.1422 0,8.4853l-42.5711,42.5712c-2.3431,2.343 -6.1421,2.343 -8.4853,0l-26.7901,-26.79c-2.3432,-2.343 -2.3432,-6.1422 0,-8.4854l42.5713,-42.5712c2.3431,-2.3432 6.1422,-2.3432 8.4852,0l26.79,26.7901z" fill=" rgb(76, 86, 131)" fill-opacity="0.87" fill-rule=" nonzero" id="svg_2"/>
+ </g>
+</svg>
